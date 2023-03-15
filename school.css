@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+body{
+    background-color: rgb(93, 0, 93);
+    text-align: center;
+    padding-top: 1px;
+}
+.companyName{
+    width: 90%;
+    height: 100px;
+    text-align: left;
+    color: white;
+    margin: 30px 5%;
+}
+.companyName h1{
+    font-weight: bold;
+    font-size: 4rem;
+    font-family: arial;
+}
+.sub-company{
+    color: yellow;
+}
+.companyName p{
+    font-size: 1.2rem;
+    font-weight: bold;
+    /* color: red; */
+}
+.icon{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.icon h1{
+    color: white;
+}
+body a{
+    height: 40px;
+    width: 90%;
+    color: rgb(93, 0, 93);
+    background: white;
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-decoration: none;
+    padding: 10px 120px;
+    margin-top: 200px;
+
+    border-radius: 20px;
+    vertical-align: middle;
+}
+body img{
+    vertical-align: middle;
+}

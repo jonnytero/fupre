@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 100%;
+    background-color: #5600a7;
+    border-radius:0px 0px 40px 40px ;
+}
+.box-content1{
+    border-radius: 0px 0px 0px 0px ;
+    background-color: white;
+}
+.box-content{
+    height: 470px;
+    margin-bottom:-100px;
+    position: relative;
+    z-index: 100px;
+    text-align: center;
+    color: white;
+    padding: 1px;
+    
+}
+.result-checker{
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 15px 0px;
+}
+.circle{
+    height: 150px;
+    width: 150px;
+    background-image: linear-gradient(rgb(132, 0, 255) , #5600a7);
+    border-radius: 50%;
+    margin-bottom: 25px;
+    position: relative;
+    margin: auto;
+}
+.circle h1{
+    line-height: 120px;
+    font-weight: bold;
+    font-size: 4rem;
+}
+.circle p{
+    line-height: 0px;
+    color: lightgray;
+    font-size: 1.2rem;
+}
+.greeting-1{
+    margin: 25px 0px ;
+    font-size: 2em;
+    font-weight: bold;
+}
+.high-text{
+    font-size: 1.05rem;
+}
+.second h3{
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 10%;
+}
+.second-container{
+    width: 90%;
+    height: 45px;
+    margin: 12px 5%;
+    text-align: center;
+    background: rgb(236, 91, 255);
+    border-radius: 15px;
+}
+.sub-reaction{
+    display: inline-block;
+    font-weight: bold;
+    line-height: 50px;
+    font-size: 1.2rem;
+    vertical-align: middle;
+}
+.memo{
+    display: inline-block;
+    font-weight: bold;
+    line-height: 50px;
+    font-size: 1.2rem;
+    vertical-align: middle;
+}
+.active3{
+    color: gray;
+}
+.continue{
+    background-color: darkblue;
+    width: 40%;
+    height: 45px;
+    margin: 7px 4.7%;
+    text-align: center;
+    border-radius: 20px;
+    outline: none;
+    border:  solid darkblue;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    display: inline-block;
+}
+.continue-back{
+    background-color: rgb(228, 228, 228);
+    border:  solid rgb(228, 228, 228);
+    color: darkblue;
+}
+.sub1{
+    background-color: rgb(255, 193, 202);
+}
+.sub11{
+    color: rgb(255, 0, 85);
+}
+.sub2{
+    background-color: rgb(244, 154, 252);
+}
+.sub22{
+    color: rgb(255, 153, 0);
+}
+.sub3{
+    background-color: lightgreen;
+}
+.sub33{
+    color: darkgreen;
+}
+.sub4{
+    background: rgb(0, 248, 236);
+}
+.sub44{
+    color: rgb(0, 0, 153);
+}
